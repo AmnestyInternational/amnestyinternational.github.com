@@ -6,7 +6,7 @@ Protecting human rights with code.
 
 Amnesty International only uses data towards the universal recognition of human rights.
 
-###Current public projects<
+###Current public projects
 
   * [Social Pull](https://github.com/AmnestyInternational/Social-Pull)
 
