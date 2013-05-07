@@ -9,11 +9,12 @@ Amnesty International only uses data towards the universal recognition of human 
 ###Current public projects
 
   * [Social Pull](https://github.com/AmnestyInternational/Social-Pull)
+  * [Dashboard](https://github.com/AmnestyInternational/dashboard)
 
 ###Future public projects
 
   * Data Analysis
-  * Dashboard Jobs
+
 
 ###Get involved
 
