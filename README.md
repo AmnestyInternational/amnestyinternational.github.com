@@ -8,8 +8,8 @@ Amnesty International only uses data towards the universal recognition of human 
 
 ###Current public projects
 
-  * [Library Computer Access Retrieval System](https://github.com/AmnestyInternational/LCARS)
-  * [Borg](https://github.com/AmnestyInternational/Borg)
+  * [LCARS](https://github.com/AmnestyInternational/LCARS) - dashboarding data
+  * [Borg](https://github.com/AmnestyInternational/Borg) - assimilating data
 
 ###Future public projects
 
