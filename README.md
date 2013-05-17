@@ -8,12 +8,13 @@ Amnesty International only uses data towards the universal recognition of human 
 
 ###Current public projects
 
-  * [Social Pull](https://github.com/AmnestyInternational/Social-Pull)
-  * [Dashboard](https://github.com/AmnestyInternational/dashboard)
+  * [Library Computer Access Retrieval System](https://github.com/AmnestyInternational/LCARS)
+  * [Borg](https://github.com/AmnestyInternational/Borg)
 
 ###Future public projects
 
-  * Data Analysis
+  * [Tom-Riker](https://github.com/AmnestyInternational/Tom-Riker)
+  * Data Analysis (needs a name)
 
 
 ###Get involved
