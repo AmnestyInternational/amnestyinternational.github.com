@@ -13,8 +13,8 @@ Amnesty International only uses data towards the universal recognition of human 
 
 ###Future public projects
 
-  * [Tom-Riker](https://github.com/AmnestyInternational/Tom-Riker)
-  * Data Analysis (needs a name)
+  * [Tom-Riker](https://github.com/AmnestyInternational/Tom-Riker) - deduplication
+  * [Spock](https://github.com/AmnestyInternational/Spock) - data analysis
 
 
 ###Get involved
