@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Amnesty International Digital
-tagline:          New tools and techniques for human rights
+title:            Amnesty.io
+tagline:          Amnesty International Digital
 url:              http://amnesty.io
 paginate:         1
 baseurl:          /
