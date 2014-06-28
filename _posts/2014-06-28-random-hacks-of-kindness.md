@@ -40,3 +40,5 @@ Increased visibility of protest style events. Shortening information delays betw
 - Data-analysis, with R or similar
 - Web applications for protest watchers
 - Mobile apps for protesters
+
+<iframe src="//slides.com/jacksoncouse/rhok14intro/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
