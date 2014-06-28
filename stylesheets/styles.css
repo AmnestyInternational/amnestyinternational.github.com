@@ -686,11 +686,6 @@ header p {
   margin: 0px;
 }
 
-.logo img {
-  float: left;
-  margin-right: 10px;
-}
-
 #banner {
   z-index: 100;
   left: 0;
