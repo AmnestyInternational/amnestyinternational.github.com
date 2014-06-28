@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Random Hacks of Kindness Ottawa 2014
+title: Amnesty International Digital at Random Hacks of Kindness Ottawa
 ---
 
-Greg, Jackson, and team get to work on VISOR, a visibility-enhancing and learning tool
+We start building VISOR, a protest-data tool
 
 -----
 
-## Project VISOR at RHOK Ottawa
+## Project VISOR at RHOK Ottawa Spring 2014
 
 VISOR is a data platform for collecting, measuring, and distributing information from protest-type events. VISOR was born at Random Hacks of Kindness Ottawa 2014.
 
