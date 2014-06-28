@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Amnesty International Digital
+tagline:          Advancing human rights with new tools, tactics, and techniques
+url:              http://amnesty.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Jackson Couse
+  url:            https://twitter.com/jacksoncouse
+  email:          jackson@jacksoncouse.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/amnestyinternational.github.io
