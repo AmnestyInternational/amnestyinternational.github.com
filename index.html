@@ -1,66 +1,37 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title: Home
+---
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Amnesty International : Protecting human rights with code" />
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <title>Amnesty International</title>
-  </head>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/AmnestyInternational">View on GitHub</a>
-
-          <h1 id="project_title">Amnesty International</h1>
-          <h2 id="project_tagline">Protecting human rights with code</h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Welcome Amnesty International GitHub Repo.</h3>
-
-<p>Protecting human rights with code.</p>
-
-<h3>Disclosure statement</h3>
-
-<p>Amnesty International only uses data towards the universal recognition of human rights.</p>
-
-<h3>Current public projects</h3>
-
-<ul>
-<li>
-<a href="https://github.com/AmnestyInternational/LCARS">LCARS</a> - dashboarding data</li>
-<li>
-<a href="https://github.com/AmnestyInternational/Borg">Borg</a> - assimilating data</li>
-</ul><h3>Future public projects</h3>
-
-<ul>
-<li><a href="https://github.com/AmnestyInternational/Tom-Riker">Tom-Riker</a></li>
-<li>Data Analysis (needs a name)</li>
-</ul><h3>Get involved</h3>
-
-<p>Contact <a href="https://github.com/gregology">@Gregology</a> to get involved.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
