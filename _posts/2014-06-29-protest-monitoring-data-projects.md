@@ -30,9 +30,9 @@ We are working towards a predicitve model for protests. In part, this is to unde
 
 ### Data Analysis and Reporting
 
-An important part of VISOR is making data available in easily used formats. The information we collect is output to Google Spreadsheets, which in turn produce JSON feeds. From this supply, a wide variety of applications is possible.
+An important part of VISOR is making data available in easily used formats. The information we collect is output to Google Spreadsheets, which in turn produce JSON feeds. From this supply a variety of applications are possible.
 
-We also see the use of sophistacated data-analysis tools, like the [PANDA Project](http://pandaproject.net/) or data manipulation with languages like R.
+We also see the use of sophistacated data-analysis tools, like the [PANDA Project](http://pandaproject.net/), or data manipulation with languages like R.
 
 ### Stay tuned
 
