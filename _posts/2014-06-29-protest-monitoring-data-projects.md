@@ -11,18 +11,18 @@ Human rights and data analysis projects that inspired VISOR
 
 ### Digital protest tools
 
-There are several interesting protest tools in use today (and one not) that we had in mind while starting this project. 
+There are several interesting protest tools in use today (and one not) that we had in mind while starting this project:
 
 1. The [Natalia wristband](http://natalia.civilrightsdefenders.org/#bracelet), from Civil Rights Defenders, is a GPS and communications enabled strap. Worn by an individual, it emits a distress alert when triggered (by being removed, for example)
 1. [Panic Button](https://panicbutton.io/), from Amnesty International, is an Android app that sends out a distress alert when triggered
 1. Sukey was an anti-kettling, protest-mapping platform. It allowed coordination between protesters on the ground with a sort of "air traffic control" online. Sukey is no longer active
 1. [Witness.org](http://witness.org/) provides tools for shooting and disseminating protest video.
 
-These projects are focused on various forms of data collection, mostly on a personal level. They focus on personal security and qualitative observation. We are interested in augmenting these tools with quantitative, big-picture, techniques. 
+These projects focus on personal security or qualitative observation during protests. We are interested in augmenting these tools with quantitative, big-picture, techniques. 
 
 ### Social media monitoring
 
-We want to create a predicitve model for protests. In part, this is to understand how to keep protests safe and effective. Its also to understand and raise the visibility of messages from protesters.
+We are working towards a predicitve model for protests. In part, this is to understand how to keep protests safe and effective. We also want to understand and raise the visibility of messages from protesters:
 
 1. [NoHomoPhobes](http://www.nohomophobes.com/#!/today/) is a social media monitoring project that tracks homophobic language online. It has a simple, direct interface that beautifully illustrates a defined message.  
 1. [twXplorer](http://twxplorer.knightlab.com/) is a platform for seeing what is being talked about locally, on Twitter.
