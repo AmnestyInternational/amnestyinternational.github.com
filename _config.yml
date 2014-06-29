@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Amnesty.io
 tagline:          Amnesty International Digital
 url:              http://amnesty.io
-paginate:         3
+paginate:         1
 baseurl:          /
 author:
   name:           Jackson Couse
