@@ -3,7 +3,7 @@ layout: post
 title: Amnesty International Digital at Random Hacks of Kindness Ottawa
 ---
 
-We start building VISOR, a protest-data tool
+Wherein we start building VISOR, a protest-data tool
 
 -----
 
@@ -30,14 +30,14 @@ Increased visibility of protest style events. Shortening information delays betw
 - Correlating people based on their followers and followers relationship, creating social graph.
 - Filtering data by geographic proximity
 - Representing aggregated data
-- Robust solution which can resist attack (Google doc, github, etc.)
+- Robust solution which can resist attack (Google docs + [tabletop.js](https://github.com/jsoma/tabletop) + [flatware](https://github.com/jsoma/flatware), github, etc.)
+- Output in easily-digestable format, like JSON
 
 ### Possible end-uses 
-- Easy and clean data feeds for journalists and human rights monitors
-- Simple charts, graphs and maps made with sheetsee.js
-- Complex charts, graphs and maps made with D3.js
-- Interactive maps made with mapbox or leaflet.js
-- Data-analysis, with R or similar
+- Easy and clean data feeds (JSON!) for data journalists and human rights monitors
+- Simple charts, graphs and maps made with googledocs and [sheetsee.js](https://jlord.github.io/sheetsee.js/) 
+- Complex charts, graphs and maps made with [mapbox](https://www.mapbox.com/) or [D3.js](http://d3js.org/) or [leaflet.js](http://leafletjs.com/)
+- Data-analysis, with [R](http://www.r-project.org/) or similar
 - Web applications for protest watchers
 - Mobile apps for protesters
 
