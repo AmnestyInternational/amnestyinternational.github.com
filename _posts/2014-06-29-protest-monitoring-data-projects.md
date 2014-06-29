@@ -9,7 +9,7 @@ Human rights and data analysis projects that inspired VISOR
 
 VISOR is a social media monitoring tool.
 
-### Protest tools
+### Other protest tools
 
 Sukey
 [Natalia wristband](http://natalia.civilrightsdefenders.org/#bracelet)
